@@ -1,0 +1,2 @@
+class IllegalPositionException(Exception):
+  pass
